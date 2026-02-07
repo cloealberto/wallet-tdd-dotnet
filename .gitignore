@@ -1,0 +1,7 @@
+# Relatórios de cobertura
+coverage-report/
+TestResults/
+
+# Builds .NET
+bin/
+obj/
