@@ -25,7 +25,7 @@ A cobertura de testes foi medida utilizando **Coverlet** e **ReportGenerator**.
 
 A meta definida para o desafio foi **80% de cobertura**, que foi atingida com sucesso.
 
-![Relatório de Cobertura de Testes](docs\CoberturaTdd.png)
+![Relatório de Cobertura de Testes](./docs/CoberturaTdd.png)
 
 ### Comandos utilizados
 ```bash
